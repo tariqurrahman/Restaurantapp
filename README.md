@@ -1,2 +1,2 @@
 # Restaurantapp
-It's a restauratn application made by using JavaFX
+It's a restaurant application made by using JavaFX
