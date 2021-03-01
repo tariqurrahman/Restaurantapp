@@ -1,2 +1,1 @@
-# Restaurantapp
-It's a restaurant application made by using JavaFX
+ Restaurantappt's a restaurant application made for a class project. It lets user open the app and select desired foods from the menu and order the food to desired location just like a regular food app. I used javaFX to make the applicatio
